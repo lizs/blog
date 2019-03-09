@@ -1,3 +1,9 @@
+---
+title: 内核内存管理（上）
+date: 2019-03-09 17:45:05
+tags:
+---
+
 # 内核内存管理（[原文地址](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/)）
 
 
